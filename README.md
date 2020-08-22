@@ -1,2 +1,2 @@
 # hello-world
-Githubs hello-world inroduction guide
+Githubs hello-world introduction guide
